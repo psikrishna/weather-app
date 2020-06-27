@@ -1,4 +1,4 @@
-const apiConfig = require('../../../apiKeys');
+const apiConfig = require('../../apiKeys');
 const request = require('postman-request');
 const log = console.log;
 
