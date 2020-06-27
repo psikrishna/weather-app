@@ -1,4 +1,3 @@
-apiKeys.*
 # NodeJS specific #
 .nyc_output/
 coverage/
